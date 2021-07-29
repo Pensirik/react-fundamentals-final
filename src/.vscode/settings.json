@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": ["ui"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
